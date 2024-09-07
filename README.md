@@ -1,16 +1,21 @@
-# DS_portfolio
 
-# Data Scientist
+# Data Science Portfolio 
+
+#### Technical Skills: Python, SQL, Azure, 
 
 ### Education
-Big Data Analytics, M.S. 
+- M.S. Big Data Analytics | University of Central Florida (_May 2025_)
+- B.S. Industrial & Systems Engineering | Georgia Institute of Technology (_December 2018_)
 
-### Work Experience
-Manufacturing Engineer @ Microsoft Azure Hardware 
-- Project 1!
-- Project 2!
+## Work Experience
+**Manufacturing Engineer @ Microsoft Azure Hardware Systems & Infrastructure (_March 2019 - Present_)**
+- Program Workload Machine Learning Model 
+- Sheet Metal Production Statistcal Process Control  
+- Failure Modes & Effects Analysis Process
 
 
 ### Projects
-- Project 1
-- Project 2
+- DJ Music Collection Recommendation Algorithm 
+- Airbnb Market Analysis
+
+### Contract My Team for a **Free** Data Science Project 
