@@ -1,7 +1,7 @@
 
 # Data Science Portfolio 
 
-#### Technical Skills: Python, SQL, Azure, 
+#### Technical Skills: Python, SQL, Julia, R, Azure ML
 
 ### Education
 - M.S. Big Data Analytics | University of Central Florida (_May 2025_)
