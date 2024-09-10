@@ -15,7 +15,7 @@
 
 
 ### Projects
-- DJ Music Collection Recommendation Algorithm 
+- [DJ Music Collection Segmentation](https://github.com/theafronautz/Music_Library_Clustering/tree/main)
 - Airbnb Market Analysis
 
 ### Contract My Team for a **Free** Data Science Project 
