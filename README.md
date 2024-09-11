@@ -37,6 +37,5 @@
 - My team will work with you to complete a Capstone data science project on behalf of your company.
 - NDAs are supported as necessary to protect your data privacy.  
 - **[Contact Me](mailto:fjohnson199517@outlook.com)**
+- **[Resume](https://github.com/the-afronautz/DS_portfolio/blob/main/[DRAFT]%20Frank%20Johnson%20Resume%20-%20Fall%2024.pdf)**
 
-### Resume
-[![PDF Preview](https://raw.githubusercontent.com/the-afronautz/DS_portfolio/main/assets/img/resume%20img%20preview.png)](https://github.com/the-afronautz/DS_portfolio/blob/main/[DRAFT]%20Frank%20Johnson%20Resume%20-%20Fall%2024.pdf)
