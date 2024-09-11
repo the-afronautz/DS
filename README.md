@@ -23,10 +23,18 @@
 - **[Project Repository](https://github.com/theafronautz/Music_Library_Clustering/tree/main)**
 
 <p align="center">
-    _Sample Analyses_
+    <strong>Sample Analyses</strong>
+</p>  
+
+<p align="center">
+    Average Track Runtime by Decade 
 </p>
 
-![Track Runtime by Decade](https://github.com/the-afronautz/DS_portfolio/blob/main/assets/img/runtime%20by%20decade.png?raw=true)
+![Track Runtime by Decade](https://github.com/the-afronautz/DS_portfolio/blob/main/assets/img/runtime%20by%20decade.png?raw=true)  
+
+<p align="center">
+    Example 4-Cluster Track Segmentation 
+</p>  
 
 ![Example Track Clustering Visualization](https://github.com/the-afronautz/DS_portfolio/blob/main/assets/img/kmedoids%20clusters.png?raw=true)
 	
@@ -39,4 +47,4 @@
 - **[Contact me if interested](mailto:fjohnson199517@outlook.com)**
 
 ### Resume
-[![PDF Preview]([Frank Johnson Resume - Fall 24.docx](https://github.com/the-afronautz/DS_portfolio/blob/main/%5BDRAFT%5D%20Frank%20Johnson%20Resume%20-%20Fall%2024.pdf))
+[![PDF Preview]([Frank Johnson Resume - Fall 24.docx](https://github.com/the-afronautz/DS_portfolio/blob/main/%5BDRAFT%5D%20Frank%20Johnson%20Resume%20-%20Fall%2024.pdf)
