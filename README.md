@@ -1,7 +1,8 @@
 
 # Data Science Portfolio 
 
-#### Technical Skills: Python, SQL, Julia, R, Azure AI ML
+#### Technical Skills: Python, SQL, Julia, R, Azure AI ML  
+#### [Resume](https://github.com/theafronautz/DS_portfolio/blob/main/Frank%20Johnson%20Resume%20-%20Fall%2024.docx)
 
 ## Education
 - M.S. Big Data Analytics | University of Central Florida (_May 2025_)
@@ -17,16 +18,14 @@
 
 ## Projects 
 ### [DJ Music Collection Segmentation](https://github.com/theafronautz/Music_Library_Clustering/tree/main)  
-- Analyzed a DJ music collection of **2,700** tracks using features (e.g. tempo, key, runtime) as well as queried attributes from Spotify's API  (e.g. instrumentalness, danceability, energy).
-- Segmented tracks into clusters via K-Means and K-Medoids clustering algorithms combined with Principal Component Analysis (PCA).
+- Analyzed DJ music collection of **2,700** tracks using features (e.g. tempo, key, runtime) as well as queried attributes from Spotify's API  (e.g. instrumentalness, danceability, energy).
+- Segmented tracks into clusters via K-Means and K-Medoids algorithms combined with Principal Component Analysis (PCA).
 - Utilized novel track groupings to create new setlists and mixes for DJ performances. 
 	
 
 **Airbnb Market Analysis** 
 
-### [Resume](https://github.com/theafronautz/DS_portfolio/blob/main/Frank%20Johnson%20Resume%20-%20Fall%2024.docx)
-
 ### Contract me for a _Free_ Data Science Project  
-- My team will work with you to complete a capstone data science project on behalf of your company
-- NDAs are supported as necessary to protect your data privacy  
-- **[Email Me](mailto:fjohnson199517@outlook.com)**
+- My team will work with you to complete a Capstone data science project on behalf of your company.
+- NDAs are supported as necessary to protect your data privacy.  
+- **[Contact me if interested](mailto:fjohnson199517@outlook.com)**
