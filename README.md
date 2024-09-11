@@ -39,4 +39,4 @@
 - **[Contact Me](mailto:fjohnson199517@outlook.com)**
 
 ### Resume
-[![PDF Preview](https://github.com/the-afronautz/DS_portfolio/blob/main/assets/img/resume%20img%20preview.png)](https://github.com/the-afronautz/DS_portfolio/blob/main/%5BDRAFT%5D%20Frank%20Johnson%20Resume%20-%20Fall%2024.pdf)
+[![PDF Preview](https://raw.githubusercontent.com/the-afronautz/DS_portfolio/main/assets/img/resume%20img%20preview.png)](https://github.com/the-afronautz/DS_portfolio/blob/main/[DRAFT]%20Frank%20Johnson%20Resume%20-%20Fall%2024.pdf)
