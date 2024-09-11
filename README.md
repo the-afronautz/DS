@@ -1,10 +1,9 @@
 
 # Data Science Portfolio 
 
-#### Technical Skills: Python, SQL, Julia, R, Azure AI ML ([Resume](https://github.com/theafronautz/DS_portfolio/blob/main/Frank%20Johnson%20Resume%20-%20Fall%2024.docx))
+#### Technical Skills: Python, SQL, Julia, R, Azure AI ML  
 
-
-## Education
+## <ins> Education </ins>
 - M.S. Big Data Analytics | University of Central Florida (_May 2025_)
 - B.S. Industrial & Systems Engineering | Georgia Institute of Technology (_December 2018_)
 
@@ -23,11 +22,13 @@
 - Utilized novel track groupings to create new setlists and mixes for DJ performances.
 - **[Project Repository](https://github.com/theafronautz/Music_Library_Clustering/tree/main)**
 
-**Music Analysis Excerpts**
+<p align="center">
+    _Sample Analyses_
+</p>
 
 ![Track Runtime by Decade](https://github.com/the-afronautz/DS_portfolio/blob/main/assets/img/runtime%20by%20decade.png?raw=true)
 
-![Example 4-Cluster Track Grouping](https://github.com/the-afronautz/DS_portfolio/blob/main/assets/img/kmedoids%20clusters.png)
+![Example Track Clustering Visualization](https://github.com/the-afronautz/DS_portfolio/blob/main/assets/img/kmedoids%20clusters.png?raw=true)
 	
 
 **Airbnb Market Analysis** 
@@ -36,3 +37,6 @@
 - My team will work with you to complete a Capstone data science project on behalf of your company.
 - NDAs are supported as necessary to protect your data privacy.  
 - **[Contact me if interested](mailto:fjohnson199517@outlook.com)**
+
+### Resume
+[![PDF Preview]([Frank Johnson Resume - Fall 24.docx](https://github.com/the-afronautz/DS_portfolio/blob/main/%5BDRAFT%5D%20Frank%20Johnson%20Resume%20-%20Fall%2024.pdf))
