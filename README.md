@@ -7,7 +7,7 @@
 - M.S. Big Data Analytics | University of Central Florida (_May 2025_)
 - B.S. Industrial & Systems Engineering | Georgia Institute of Technology (_December 2018_)
 
-## Work Experience  
+## <ins> Work Experience  </ins>
 
 ### Microsoft Azure Hardware Systems & Infrastructure  
 **_Manufacturing Engineer II (March 2019 - Present)_**
@@ -15,7 +15,7 @@
 - Leveraged SQL and Python to extract, clean, and model program development timelines, improving development schedule forecasting accuracy by **20%** 
 - Led design and implementation of chassis sheet metal DOE and factory process control reviews which unblocked supplier server production and saved **$8 million** in deployment delay costs. 
 
-## Projects 
+## <ins> Projects </ins>
 ### DJ Music Collection Segmentation 
 - Analyzed DJ music collection of **2,700** tracks using features (e.g. tempo, key, runtime) as well as queried attributes from Spotify's API  (e.g. instrumentalness, danceability, energy).
 - Segmented tracks into clusters via K-Means and K-Medoids algorithms combined with Principal Component Analysis (PCA).
