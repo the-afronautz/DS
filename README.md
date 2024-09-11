@@ -1,8 +1,8 @@
 
 # Data Science Portfolio 
 
-#### Technical Skills: Python, SQL, Julia, R, Azure AI ML  
-#### [Resume](https://github.com/theafronautz/DS_portfolio/blob/main/Frank%20Johnson%20Resume%20-%20Fall%2024.docx)
+#### Technical Skills: Python, SQL, Julia, R, Azure AI ML ([Resume](https://github.com/theafronautz/DS_portfolio/blob/main/Frank%20Johnson%20Resume%20-%20Fall%2024.docx))
+
 
 ## Education
 - M.S. Big Data Analytics | University of Central Florida (_May 2025_)
