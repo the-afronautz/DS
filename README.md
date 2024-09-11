@@ -11,13 +11,15 @@
 
 **Microsoft Azure Hardware Systems & Infrastructure**  
 _Manufacturing Engineer II_ (_March 2019 - Present_)
-- Program Workload Machine Learning Model 
-- Sheet Metal Production Statistcal Process Control  
+- Led cross-functional development of Power BI forecasting tool to optimize workload distribution of **400+** hardware SKU programs across **7** engineering teams.
+- Leveraged SQL and Python to extract, clean, and model program development timelines, improving development schedule forecasting accuracy by **20%** 
+- Led design and implementation of chassis sheet metal DOE and factory process control reviews which unblocked supplier server production and saved **$8 million** deployment delay costs. 
 - Failure Modes & Effects Analysis Process
 
 ## Projects 
-- [DJ Music Collection Segmentation](https://github.com/theafronautz/Music_Library_Clustering/tree/main)
-- Airbnb Market Analysis
+**[DJ Music Collection Segmentation](https://github.com/theafronautz/Music_Library_Clustering/tree/main)**  
+
+**Airbnb Market Analysis** 
 
 ### [Resume](https://github.com/theafronautz/DS_portfolio/blob/main/Frank%20Johnson%20Resume%20-%20Fall%2024.docx)
 
