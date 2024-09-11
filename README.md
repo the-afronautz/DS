@@ -19,7 +19,7 @@ _Manufacturing Engineer II_ (_March 2019 - Present_)
 - [DJ Music Collection Segmentation](https://github.com/theafronautz/Music_Library_Clustering/tree/main)
 - Airbnb Market Analysis
 
-##[Resume](https://github.com/theafronautz/DS_portfolio/blob/main/Frank%20Johnson%20Resume%20-%20Fall%2024.docx)**
+### [Resume](https://github.com/theafronautz/DS_portfolio/blob/main/Frank%20Johnson%20Resume%20-%20Fall%2024.docx)
 
 ### Contract me for a _Free_ Data Science Project  
 - My team will work with you to complete a capstone data science project on behalf of your company
