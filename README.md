@@ -2,7 +2,6 @@
 # Data Science Portfolio 
 
 #### Technical Skills: Python, SQL, Julia, R, Azure ML
-- **[Resume](https://github.com/theafronautz/DS_portfolio/blob/main/Frank%20Johnson%20Resume%20-%20Fall%2024.docx)**
 
 ## Education
 - M.S. Big Data Analytics | University of Central Florida (_May 2025_)
@@ -15,6 +14,7 @@ _Manufacturing Engineer II_ (_March 2019 - Present_)
 - Sheet Metal Production Statistcal Process Control  
 - Failure Modes & Effects Analysis Process
 
+- **[Resume](https://github.com/theafronautz/DS_portfolio/blob/main/Frank%20Johnson%20Resume%20-%20Fall%2024.docx)**
 
 ### Projects
 - [DJ Music Collection Segmentation](https://github.com/theafronautz/Music_Library_Clustering/tree/main)
