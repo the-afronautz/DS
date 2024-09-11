@@ -9,15 +9,18 @@
 
 ## Work Experience  
 
-**Microsoft Azure Hardware Systems & Infrastructure**  
-_Manufacturing Engineer II_ (_March 2019 - Present_)
+### Microsoft Azure Hardware Systems & Infrastructure  
+**_Manufacturing Engineer II (March 2019 - Present)_**
 - Led cross-functional development of Power BI forecasting tool to optimize workload distribution of **400+** hardware SKU programs across **7** engineering teams.
 - Leveraged SQL and Python to extract, clean, and model program development timelines, improving development schedule forecasting accuracy by **20%** 
-- Led design and implementation of chassis sheet metal DOE and factory process control reviews which unblocked supplier server production and saved **$8 million** deployment delay costs. 
-- Failure Modes & Effects Analysis Process
+- Led design and implementation of chassis sheet metal DOE and factory process control reviews which unblocked supplier server production and saved **$8 million** in deployment delay costs. 
 
 ## Projects 
-**[DJ Music Collection Segmentation](https://github.com/theafronautz/Music_Library_Clustering/tree/main)**  
+### [DJ Music Collection Segmentation](https://github.com/theafronautz/Music_Library_Clustering/tree/main)  
+- Analyzed a DJ music collection of **2,700** tracks using features (e.g. tempo, key, runtime) as well as queried attributes from Spotify's API  (e.g. instrumentalness, danceability, energy).
+- Segmented tracks into clusters via K-Means and K-Medoids clustering algorithms combined with Principal Component Analysis (PCA).
+- Utilized novel track groupings to create new setlists and mixes for DJ performances. 
+	
 
 **Airbnb Market Analysis** 
 
