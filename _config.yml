@@ -1,5 +1,5 @@
 title: Frank Johnson
 logo: /assets/img/MLT professional picture.jpeg
-#description: text below image
-show downloads: true
+description: text below image
+#show downloads: true
 theme: jekyll-theme-minimal
