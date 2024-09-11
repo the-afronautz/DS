@@ -22,6 +22,10 @@
 - Segmented tracks into clusters via K-Means and K-Medoids algorithms combined with Principal Component Analysis (PCA).
 - Utilized novel track groupings to create new setlists and mixes for DJ performances.
 - **[Project Repository](https://github.com/theafronautz/Music_Library_Clustering/tree/main)**
+
+![Track Runtime by Decade](https://github.com/the-afronautz/DS_portfolio/blob/main/assets/img/runtime%20by%20decade.png?raw=true)
+
+![Example 4-Cluster Track Grouping](https://github.com/the-afronautz/DS_portfolio/blob/main/assets/img/kmedoids%20clusters.png)
 	
 
 **Airbnb Market Analysis** 
