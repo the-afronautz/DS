@@ -17,10 +17,11 @@
 - Led design and implementation of chassis sheet metal DOE and factory process control reviews which unblocked supplier server production and saved **$8 million** in deployment delay costs. 
 
 ## Projects 
-### [DJ Music Collection Segmentation](https://github.com/theafronautz/Music_Library_Clustering/tree/main)  
+### DJ Music Collection Segmentation 
 - Analyzed DJ music collection of **2,700** tracks using features (e.g. tempo, key, runtime) as well as queried attributes from Spotify's API  (e.g. instrumentalness, danceability, energy).
 - Segmented tracks into clusters via K-Means and K-Medoids algorithms combined with Principal Component Analysis (PCA).
-- Utilized novel track groupings to create new setlists and mixes for DJ performances. 
+- Utilized novel track groupings to create new setlists and mixes for DJ performances.
+- **[Project Repository](https://github.com/theafronautz/Music_Library_Clustering/tree/main)**
 	
 
 **Airbnb Market Analysis** 
