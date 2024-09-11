@@ -26,15 +26,7 @@
     <strong>Sample Analyses</strong>
 </p>  
 
-<p align="center">
-    Average Track Runtime by Decade 
-</p>
-
 ![Track Runtime by Decade](https://github.com/the-afronautz/DS_portfolio/blob/main/assets/img/runtime%20by%20decade.png?raw=true)  
-
-<p align="center">
-    Example 4-Cluster Track Segmentation 
-</p>  
 
 ![Example Track Clustering Visualization](https://github.com/the-afronautz/DS_portfolio/blob/main/assets/img/kmedoids%20clusters.png?raw=true)
 	
