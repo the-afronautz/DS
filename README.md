@@ -9,7 +9,7 @@
 - B.S. Industrial & Systems Engineering | Georgia Institute of Technology (_December 2018_)
 
 ## Work Experience
-**Microsoft Azure Hardware Systems & Infrastructure **  
+**Microsoft Azure Hardware Systems & Infrastructure**  
 _Manufacturing Engineer II_ (_March 2019 - Present_)
 - Program Workload Machine Learning Model 
 - Sheet Metal Production Statistcal Process Control  
