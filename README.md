@@ -26,8 +26,6 @@
     <strong>Sample Analyses</strong>
 </p>  
 
-![Track Runtime by Decade](https://github.com/the-afronautz/DS_portfolio/blob/main/assets/img/runtime%20by%20decade.png?raw=true)  
-
 ![Example Track Clustering Visualization](https://github.com/the-afronautz/DS_portfolio/blob/main/assets/img/kmedoids%20clusters.png?raw=true)
 	
 
