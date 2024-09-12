@@ -17,7 +17,7 @@
 
 ## <ins> Projects </ins>
 ### DJ Music Collection Segmentation 
-**| Python | Unsupervised Learning | Spotify API |**
+_| Python | Unsupervised Learning | Spotify API |_
 - Analyzed DJ music collection of **2,700** tracks using features (e.g. tempo, key, runtime) as well as queried attributes from Spotify's API  (e.g. instrumentalness, danceability, energy).
 - Segmented tracks into clusters via K-Means and K-Medoids algorithms combined with Principal Component Analysis (PCA).
 - Utilized novel track groupings to create new setlists and mixes for DJ performances.
