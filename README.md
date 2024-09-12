@@ -17,13 +17,14 @@
 
 ## <ins> Projects </ins>
 ### DJ Music Collection Segmentation 
+**Python | Unsupervised Learning | Spotify API |**
 - Analyzed DJ music collection of **2,700** tracks using features (e.g. tempo, key, runtime) as well as queried attributes from Spotify's API  (e.g. instrumentalness, danceability, energy).
 - Segmented tracks into clusters via K-Means and K-Medoids algorithms combined with Principal Component Analysis (PCA).
 - Utilized novel track groupings to create new setlists and mixes for DJ performances.
 - **[Project Repository](https://github.com/theafronautz/Music_Library_Clustering/tree/main)**
 
 <p align="center">
-    <strong>Sample Analyses</strong>
+    <strong>Sample Analysis</strong>
 </p>  
 
 ![Example Track Clustering Visualization](https://github.com/the-afronautz/DS_portfolio/blob/main/assets/img/kmedoids%20clusters.png?raw=true)
@@ -34,7 +35,8 @@
 ### Contract me for a _Free_ Data Science Project  
 - My team will work with you to complete a Capstone data science project on behalf of your company.
 - NDAs are supported as necessary to protect your data privacy.
+- - **[Contact Me](mailto:fjohnson199517@outlook.com)**
 - **[Resume](https://github.com/the-afronautz/DS_portfolio/blob/main/[DRAFT]%20Frank%20Johnson%20Resume%20-%20Fall%2024.pdf)** 
-- **[Contact Me](mailto:fjohnson199517@outlook.com)**
+
 
 
