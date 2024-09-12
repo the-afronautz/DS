@@ -30,7 +30,7 @@ _| Python | Unsupervised Learning | Spotify API |_
 ![Example Track Clustering Visualization](https://github.com/the-afronautz/DS_portfolio/blob/main/assets/img/kmedoids%20clusters.png?raw=true)
 	
 
-**Airbnb Market Analysis** 
+### Airbnb Market Analysis 
 _| Python | Statistical Analysis | Supervised Learning | Deep Learning |_  
 - Analyzed Broward County, FL housing market to determine optimal Airbnb pricing structure, location, and property attributes to maximize yearly revenue. 
 
