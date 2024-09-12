@@ -10,7 +10,7 @@
 ## <ins> Work Experience  </ins>
 
 ### Microsoft Azure Hardware Systems & Infrastructure  
-**_Manufacturing Engineer II (March 2019 - Present)_**
+**_Manufacturing Engineer II (March 2019 - Present)_**  
 _| Azure AI ML Studio | Azure AI Data Studio | Kusto | Python | Quantum XL | Statistical Process Control |_
 - Led cross-functional development of Power BI forecasting tool to optimize workload distribution of **400+** hardware SKU programs across **7** engineering teams.
 - Leveraged SQL and Python to extract, clean, and model program development timelines, improving development schedule forecasting accuracy by **20%** 
