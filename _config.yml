@@ -1,4 +1,9 @@
 title: Frank Johnson
 logo: /assets/img/MLT professional picture.jpeg
-description: I am a manufacturing engineer, cloud practioner, and DJ that enjoys leveraging data to work at the intersection of these fields. Let's connect!
+description: |
+  I am a manufacturing engineer,
+  cloud practitioner, and DJ that
+  enjoys leveraging data to work
+  at the intersection of these fields.
+  Let's connect!
 theme: jekyll-theme-minimal
