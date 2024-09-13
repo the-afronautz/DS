@@ -37,8 +37,8 @@ _| Python | Statistical Analysis | Supervised Learning | Deep Learning |_
 
 ### Contract me for a _Free_ Data Science Project  
 - My team will work with you to complete a Capstone data science project on behalf of your company.
-- NDAs are supported as necessary to protect your data privacy.
-- - **[Contact Me](mailto:fjohnson199517@outlook.com)**
+- NDAs are supported as necessary to protect your data privacy.  
+- **[Contact Me](mailto:fjohnson199517@outlook.com)**
 - **[Resume](https://github.com/the-afronautz/DS_portfolio/blob/main/[DRAFT]%20Frank%20Johnson%20Resume%20-%20Fall%2024.pdf)** 
 
 
