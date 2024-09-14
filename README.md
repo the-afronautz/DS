@@ -23,6 +23,7 @@ _| Python | Unsupervised Learning | Spotify API |_
 - Segmented tracks into clusters via K-Means and K-Medoids algorithms combined with Principal Component Analysis (PCA).
 - Utilized novel track groupings to create new setlists and mixes for DJ performances.
 - **[Project Repository](https://github.com/theafronautz/Music_Library_Clustering/tree/main)**
+- **[Medium Article](https://medium.com/@fjohnson199517/unsupervised-learning-techniques-for-music-segmentation-84e5e713e701)**
 
 <p align="center">
     <strong>Sample Analysis</strong>
