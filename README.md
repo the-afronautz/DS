@@ -14,7 +14,8 @@
 _| Azure ML Studio | Azure Data Studio | SQL | Kusto | Python | Quantum XL |_  
 - Led cross-functional development of Power BI forecasting tool to optimize workload distribution of **400+** hardware SKU programs across **7** engineering teams.
 - Leveraged SQL and Python to extract, clean, and model program development timelines, improving development schedule forecasting accuracy by **20%** 
-- Led design and implementation of chassis sheet metal DOE and factory process control reviews which unblocked supplier server production and saved **$8 million** in deployment delay costs. 
+- Led design and implementation of chassis sheet metal DOE and factory process control reviews which unblocked supplier server production and saved **$8 million** in deployment delay costs.
+- Created datacenter repair ticket prioritization model to optimize server repair operations by highlighting tickets with the shortest repair time and longest mean time to repair.
 
 ## <ins> Projects </ins>
 ### DJ Music Collection Segmentation  
