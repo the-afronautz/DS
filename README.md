@@ -1,7 +1,7 @@
 
 # Data Science Portfolio 
 
-#### Technical Skills: Python, SQL, Julia, R, Azure AI ML  
+#### Technical Skills: Python, SQL, Julia, R, Kusto 
 
 ## <ins> Education </ins>
 - M.S. Big Data Analytics | University of Central Florida (_May 2025_)
@@ -16,6 +16,8 @@ _| Azure ML Studio | Azure Data Studio | SQL | Kusto | Python | Quantum XL |_
 - Leveraged SQL and Python to extract, clean, and model program development timelines, improving development schedule forecasting accuracy by **20%** 
 - Led design and implementation of chassis sheet metal DOE and factory process control reviews which unblocked supplier server production and saved **$8 million** in deployment delay costs.
 - Created datacenter repair ticket prioritization model to optimize server repair operations by highlighting tickets with the shortest repair time and longest mean time to repair.
+- Developed predictive model to minimize GPU server downtime by automating repair ticket prioritization process at high volume datacenters [Hackathon].
+
 
 ## <ins> Projects </ins>
 ### DJ Music Collection Segmentation  
