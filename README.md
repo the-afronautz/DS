@@ -18,7 +18,7 @@ _| Azure ML Studio | Azure Data Studio | SQL | Kusto | Python | Quantum XL |_
 
 
 ## <ins> Projects </ins>
-### DJ Music Collection Segmentation  
+### 1) DJ Music Collection Segmentation  
 _| Python | Unsupervised Learning | Spotify API |_  
 - Analyzed DJ music collection of **2,700** tracks using features (e.g. tempo, key, runtime) as well as queried attributes from Spotify's API  (e.g. instrumentalness, danceability, energy).
 - Segmented tracks into clusters via K-Means and K-Medoids algorithms combined with Principal Component Analysis (PCA).
@@ -33,7 +33,7 @@ _| Python | Unsupervised Learning | Spotify API |_
 ![Track Clustering Visualization](https://github.com/the-afronautz/DS_portfolio/blob/main/assets/img/kmedoids%20clusters.png?raw=true)
 	
 
-### Airbnb Market Analysis 
+### 2) Airbnb Market Analysis 
 _| Python | Statistical Analysis | Supervised Learning |_  
 - Analyzed Broward County, FL housing market to determine optimal Airbnb pricing structure, location, and property attributes to maximize yearly revenue.
 - **[Project Repository](https://github.com/the-afronautz/airbnb-market_analysis)**
