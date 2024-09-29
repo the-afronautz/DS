@@ -30,12 +30,20 @@ _| Python | Unsupervised Learning | Spotify API |_
     <strong>Sample Analysis</strong>
 </p>  
 
-![Example Track Clustering Visualization](https://github.com/the-afronautz/DS_portfolio/blob/main/assets/img/kmedoids%20clusters.png?raw=true)
+![Track Clustering Visualization](https://github.com/the-afronautz/DS_portfolio/blob/main/assets/img/kmedoids%20clusters.png?raw=true)
 	
 
 ### Airbnb Market Analysis 
-_| Python | Statistical Analysis | Supervised Learning | Deep Learning | NLP |_  
-- Analyzed Broward County, FL housing market to determine optimal Airbnb pricing structure, location, and property attributes to maximize yearly revenue. 
+_| Python | Statistical Analysis | Supervised Learning |_  
+- Analyzed Broward County, FL housing market to determine optimal Airbnb pricing structure, location, and property attributes to maximize yearly revenue.
+
+<p align="center">
+    <strong>Sample Analysis</strong>
+</p>  
+
+  ![Highest Revenue Neighborhoods](https://github.com/the-afronautz/DS_portfolio/blob/main/assets/img/broward investments.png?raw=true)
+
+  
 
 ### Contract me for a _Free_ Data Science Project  
 - My team will work with you to complete a Capstone data science project on behalf of your company.
