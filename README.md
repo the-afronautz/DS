@@ -27,7 +27,7 @@ _| Python | Unsupervised Learning | Spotify API |_
 - **[Medium Article](https://medium.com/@fjohnson199517/unsupervised-learning-techniques-for-music-segmentation-84e5e713e701)**
 
 <p align="center">
-    <strong>Sample Analysis</strong>
+    <strong>K-Medoids Track Clustering</strong>
 </p>  
 
 ![Track Clustering Visualization](https://github.com/the-afronautz/DS_portfolio/blob/main/assets/img/kmedoids%20clusters.png?raw=true)
@@ -39,12 +39,13 @@ _| Python | Statistical Analysis | Supervised Learning |_
 - **[Project Repository](https://github.com/the-afronautz/airbnb-market_analysis)**
 
 <p align="center">
-    <strong>Sample Analysis</strong>
+    <strong>Highest Revenue Neighborhoods in Broward County</strong>
 </p>  
-
   ![Highest Revenue Neighborhoods](https://github.com/the-afronautz/DS_portfolio/blob/main/assets/img/broward investments.png?raw=true)   
 
-
+<p align="center">
+    <strong>Lighthouse Point Price Density Heatmap</strong>
+</p>  
   ![Price Density Heatmap](assets/img/broward heatmap + markers.png?raw=true)
 
   
