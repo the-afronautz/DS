@@ -45,7 +45,8 @@ I am a multi-disciplinary engineer and data scientist with experience at the int
 #### **(3) Rack Assembly Inspection Process Kaizen**    
 **Focus:** Six Sigma, DMAIC, Data Analysis, Cycle Time Reduction  
 **Platforms:** JMP, Azure (SQL Server, Data Studio, ML Studio, DevOps)   
-- Led data consolidation and analysis for rack assembly inspection process improvement, identifying cycle time review bottlenecks and process optimizations to reduce cycle time by 25%  
+- Led consolidation and analysis of rack assembly inspection cycle time data, identifying bottlenecks in review lifecycle and redundant workstreams
+- Collaborated with broader team to drive lean process improvements and streamlined stakeholder communication resulting in 25% reduction in inspection cycle time
 
 #### **(4) Nvidia H100 Repair Ticket Prioritization Hackathon**     
 **Focus:** Regression / Ensemble Modeling, MLP Neural Networks  
