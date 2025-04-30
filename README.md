@@ -1,6 +1,9 @@
 # Data Science Portfolio 
 
-#### Technical Skills: Python, Julia, R, SQL, KQL 
+#### Programming Languages: Python, Julia, R, SQL, KQL 
+
+- **[Email](mailto:fjohnson199517@outlook.com)**
+- **[Resume](https://github.com/the-afronautz/DS_portfolio/blob/main/[DRAFT]%20Frank%20Johnson%20Resume%20-%20Fall%2024.pdf)** 
 
 ## <ins> Education </ins>
 - M.S. Big Data Analytics | University of Central Florida 
@@ -58,8 +61,7 @@ _| Python | Statistical Analysis | Supervised Learning |_
   ![Price Density Heatmap](assets/img/broward heatmap + markers.png?raw=true)
 
   
-- **[Email](mailto:fjohnson199517@outlook.com)**
-- **[Resume](https://github.com/the-afronautz/DS_portfolio/blob/main/[DRAFT]%20Frank%20Johnson%20Resume%20-%20Fall%2024.pdf)** 
+
 
 
 
