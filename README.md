@@ -5,10 +5,11 @@
 
 #### Programming Languages: Python, Julia, R, SQL, KQL 
 
-## <ins> Work Experience  </ins>
+## <ins> Work Projects </ins>
 
 
-### _Gray Artificial Intelligence, Inc._ Statistical and Deep Learning Methods for Server Telemetry Analysis    
+### _Gray Artificial Intelligence, Inc._ 
+#### Statistical and Deep Learning Methods for Server Telemetry Analysis    
 _| Deep Learning | Time Series Analysis | Anomaly Detection | Server Memory Validation | Git/GitHub |_   
 - Developed master's capstone project in collaboration with [Gray Artificial Intelligence](https://grayaiml.com/), a startup leveraging artificial intelligence to optimize data center and manufacturing operations 
 - Led 4-member university team in analysis of server memory hardware data to model telemetry patterns, identify deviations from baseline operational behavior, and optimize validation testing processes 
@@ -18,6 +19,7 @@ _| Deep Learning | Time Series Analysis | Anomaly Detection | Server Memory Vali
     
 
 ### _Microsoft Azure Hardware & Systems Infrastructure_  
+#### 
 _| Azure ML Studio | Azure Data Studio | SQL | Kusto | Python | Quantum XL |_  
 - Led cross-functional development of Power BI forecasting tool to optimize workload distribution of **400+** hardware SKU programs across **7** engineering teams
 - Leveraged SQL and Python to extract, clean, and model program development timelines, improving development schedule forecasting accuracy by **20%** 
@@ -25,7 +27,7 @@ _| Azure ML Studio | Azure Data Studio | SQL | Kusto | Python | Quantum XL |_
 - Created datacenter repair ticket prioritization model to optimize server repair operations by highlighting tickets with the shortest repair time and longest mean time to repair [Hackathon]
 
 
-## <ins> Projects </ins>
+## <ins> Personal Projects </ins>
 ### 1) DJ Music Collection Segmentation  
 _| Python | Unsupervised Learning | Spotify API |_  
 - Analyzed DJ music collection of **2,700** tracks using features (e.g. tempo, key, runtime) as well as queried attributes from Spotify's API  (e.g. instrumentalness, danceability, energy).
