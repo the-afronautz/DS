@@ -29,18 +29,18 @@
 - Created full-factorial sheet metal DOE to determine minimum sheet metal quality based on temperature and humidity factors  
 - Contracted 3rd party laboratory to conduct sheet metal testing DOE and validate results, ultimately unblocking supplier production and creating $8 million in downstream savings.  
 
-#### **Program Assignment Optimization**    
-**Focus:** Design of Experiments, Statistical Process Control, Material Testing  
+#### **Hardware Program Assignment Optimization**    
+**Focus:** Data Governance, Data Mining, Regression Modeling,    
 **Platforms:** Azure (SQL Server, Data Studio, ML Studio, DevOps), Power BI   
 - Leveraged SQL and Python to extract, clean, and model program development timelines, improving development schedule forecasting accuracy by **20%**   
 
 
 #### **Rack Assembly Inspection Process Kaizen**    
-**Focus:** Six Sigma, DMAIC, Lean Manufacturing, Data Analysis    
+**Focus:** Six Sigma, DMAIC, Lean Manufacturing, Data Analysis, Cycle Time Reduction  
 **Platforms:** JMP, Azure (SQL Server, Data Studio, ML Studio, DevOps)  
 
 #### **H100 Repair Ticket Prioritization Hackathon**     
-**Focus:** Six Sigma, DMAIC, Lean Manufacturing, Data Analysis     
+**Focus:** Data Analysis, Regression / Ensemble Modeing, MLP Neural Networks, Cycle Time 
 **Platforms:** Azure (Kusto, SQL Server, ML Studio)    
 - Created datacenter repair ticket prioritization model to optimize server repair operations by highlighting tickets with the shortest repair time and longest mean time to repair   
 
