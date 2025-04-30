@@ -2,10 +2,10 @@
 
 I am a multi-disciplinary engineer and data scientist with experience at the intersection of cloud hardware, software, and supply chain systems. I enjoy leveraging data and artificial intelligence systems to drive impact in technical and non-technical spaces alike. 
 
-**Analytics Skills:** Data Mining, Statistical Analysis, Machine / Deep Learning, Design of Experiments    
-**Platforms:** Azure Services (AI/ML, DevOps, Fabric), MLflow, Spark, Git/GitHub, PowerBI, JMP  
+**Analytics Skills:** Data Mining, Statistical Analysis, ML/DL, DOE    
+**Platforms:** Azure Services, MLflow, Spark, Git/GitHub, PowerBI, JMP  
 **Languages:** Python, SQL, Julia, KQL, R  
-**Libraries:** Pandas, PyTorch, TensorFlow, Scikit-Learn, NumPy, Statsmodels, SciPy, Plotly, Matplotlib    
+**Libraries:** Pandas, PyTorch, Scikit-Learn, NumPy, Statsmodels, SciPy, Plotly    
 **Awards:** UCF Data Science External Advisory Board  
 
 - **[Email](mailto:fjohnson199517@outlook.com)**
