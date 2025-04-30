@@ -5,7 +5,7 @@
 
 #### Programming Languages: Python, Julia, R, SQL, KQL 
 
-## <ins> Work Projects </ins>
+## <ins> Professional Projects </ins>
 
 
 ### _Gray Artificial Intelligence, Inc._ 
