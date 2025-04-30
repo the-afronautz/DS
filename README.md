@@ -13,7 +13,7 @@
 **Focus:** Deep Learning, Time Series, Anomaly Detection, Server Validation   
 **Platforms:** Git/GitHub, MLflow, Azure Virtual Machines  
 **Libraries:** PyTorch, Scikit-Learn, Statsmodels, Pandas, NumPy, Plotly 
-- Developed master's capstone project in collaboration with [Gray Artificial Intelligence](https://grayaiml.com/), a startup leveraging artificial intelligence to optimize data center and manufacturing operations 
+- Developed master's capstone project in collaboration with [GrayAI](https://grayaiml.com/), a startup leveraging artificial intelligence to optimize data center and manufacturing operations 
 - Led 4-member university team in analysis of server memory hardware data to model telemetry patterns, identify deviations from baseline operational behavior, and optimize validation testing processes 
 - Developed temporal convolutional network autoencoder model to analyze multivariate time series data and quantify anomalous server behavior in time spans as short as 100 milliseconds, reducing reconstruction loss from 28% to 0.25% to improve model accuracy
 - Developed comprehensive GitHub repository with scripts, notebooks, and reporting as well as MLflow structure to log experiments, model parameters, and artifacts for client
