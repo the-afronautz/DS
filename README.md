@@ -47,7 +47,7 @@ I am a multi-disciplinary engineer and data scientist with experience at the int
 **Platforms:** JMP, Azure (SQL Server, Data Studio, ML Studio, DevOps)   
 - Led data consolidation and analysis for rack assembly inspection process improvement, identifying cycle time review bottlenecks and process optimizations to reduce cycle time by 25%  
 
-#### **(4) Nvidida H100 Repair Ticket Prioritization Hackathon**     
+#### **(4) Nvidia H100 Repair Ticket Prioritization Hackathon**     
 **Focus:** Regression / Ensemble Modeling, MLP Neural Networks  
 **Platforms:** Azure (Kusto, SQL Server, ML Studio)      
 - Analyzed **20,000+** datacenter repair tickets for **Nvidia H100** nodes based on failure fault code and repair action data  
