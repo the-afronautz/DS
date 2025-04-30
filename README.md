@@ -16,11 +16,10 @@ I am a multi-disciplinary engineer and data scientist with experience at the int
 ### _Gray Artificial Intelligence, Inc._  
 #### **Statistical and Deep Learning Methods for Server Telemetry Analysis**    
 **Focus:** Deep Learning, Time Series, Anomaly Detection, Server Validation   
-**Platforms:** Git/GitHub, MLflow, Azure (SQL Server, ML Studio, VMs)  
-**Libraries:** PyTorch, Scikit-Learn, Statsmodels, Pandas, NumPy, Plotly   
+**Platforms:** Git/GitHub, MLflow, Azure (SQL Server, ML Studio, VMs)     
 - Developed master's capstone project in collaboration with [GrayAI](https://grayaiml.com/), a startup leveraging deep learning and AI technologies to optimize data center and manufacturing operations   
 - Led 4-member university team in analysis of server memory hardware to model telemetry patterns, identify deviations from baseline operational behavior, and optimize validation testing   
-- Developed **temporal convolutional network autoencoder** architecture to analyze multivariate time series data and quantify anomalous server behavior in time spans as short as 100 milliseconds, improving model accuracy by **reducing reconstruction loss from 28% to 0.25%**  
+- Developed **PyTorch-based temporal convolutional network autoencoder** architecture to analyze multivariate time series data and quantify anomalous server behavior in time spans as short as 100 milliseconds, improving model accuracy by **reducing reconstruction loss from 28% to 0.25%**  
 - Developed comprehensive GitHub repository with scripts, notebooks, and reporting as well as MLflow structure to log experiments, model parameters, and artifacts for client   
 
     
@@ -41,7 +40,7 @@ I am a multi-disciplinary engineer and data scientist with experience at the int
 - Created process standards and implementation logic to define clear requirements for data engineering collaborators to execute against   
 - Leveraged SQL and Python to extract, clean, and model program development timelines, **improving schedule forecast accuracy by 32%** and enabling further workload balancing optimization    
 
- #### **(3) Nvidia H100 Repair Ticket Prioritization Hackathon**     
+#### **(3) Nvidia H100 Repair Ticket Prioritization Hackathon**     
 **Focus:** Regression / Ensemble Modeling, MLP Neural Networks  
 **Platforms:** Azure (Kusto, SQL Server, ML Studio)      
 - Analyzed **20,000+** datacenter repair tickets for **Nvidia H100** nodes based on failure fault code and repair action data   
