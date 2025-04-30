@@ -53,11 +53,12 @@ I am a multi-disciplinary engineer and data scientist with experience at the int
 
 
 ## <ins> Personal Projects </ins>
-#### (1) DJ Music Collection Segmentation  
-_| Python | Unsupervised Learning | Spotify API |_  
-- Analyzed DJ music collection of **2,700** tracks using features (e.g. tempo, key, runtime) as well as queried attributes from Spotify's API  (e.g. instrumentalness, danceability, energy).
+#### (1) DJ Music Collection Segmentation   
+**Focus:** Dimensionality Reduction, Clustering, Classification, Metadata Analysis 
+**Platforms:** Spotify API, Jupyter Notebooks 
+- Analyzed personal music collection of **3,000** tracks using features (e.g. tempo, key, runtime) as well as queried attributes from Spotify's API  (e.g. instrumentalness, danceability, energy).
 - Segmented tracks into clusters via K-Means and K-Medoids algorithms combined with Principal Component Analysis (PCA).
-- Utilized novel track groupings to create new setlists and mixes for DJ performances.
+- Utilized novel track groupings to create new setlists and mixes for DJ performances. 
 - **[Project Repository](https://github.com/theafronautz/Music_Library_Clustering/tree/main)**
 - **[Medium Article](https://medium.com/@fjohnson199517/unsupervised-learning-techniques-for-music-segmentation-84e5e713e701)**
 
