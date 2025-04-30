@@ -15,6 +15,7 @@ _| Git/GitHub | Python | Deep Learning | Time Series Analysis | Anomaly Detectio
 - Developed temporal convolutional autoencoder model to analyze multivariate telemetry data and quantify anomalous performance relative to baseline, reducing reconstruction loss (28% --> 0.25%)
 - Developed comprehensive GitHub repository and MLflow structure to log experiments and parameters
 
+    
 
 ### Microsoft Azure Hardware Systems & Infrastructure  
 **_Manufacturing Engineer II (March 2019 - Present)_**  
