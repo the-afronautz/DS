@@ -34,9 +34,9 @@ I am a multi-disciplinary engineer and data scientist with experience at the int
 - Created full-factorial sheet metal DOE to determine minimum sheet metal quality based on temperature and humidity factors  
 - Contracted 3rd party laboratory to conduct sheet metal testing DOE and validate results, ultimately unblocking supplier production and creating $8 million in downstream savings 
 
-#### **(2) Hardware Program Assignment Optimization**    
+#### **(2) Hardware Program Assignment Optimization**      
 **Focus:** Data Governance, Data Mining, Regression Modeling, Visualization    
-**Platforms:** Azure (SQL Server, Data Studio, ML Studio, DevOps), Power BI   
+**Platforms:** Azure (SQL Server, Data Studio, ML Studio, DevOps), Power BI    
 - Managed end-to-end development of Power BI forecasting tool to balance workload distribution of 400+ programs across 7 engineering teams and save 2,400 labor hours annually  
 - Created process standards and implementation logic to define clear requirements for data engineering collaborators to execute against   
 - Leveraged SQL and Python to extract, clean, and model program development timelines, improving schedule forecasting accuracy by **32%** and enabling further workload balancing optimization    
@@ -48,8 +48,8 @@ I am a multi-disciplinary engineer and data scientist with experience at the int
 - Led data consolidation and analysis for rack assembly inspection process improvement, identifying cycle time review bottlenecks and process optimizations to reduce cycle time by 25%  
 
 #### **(4) Nvidida H100 Repair Ticket Prioritization Hackathon**     
-**Focus:** Regression / Ensemble Modeling, MLP Neural Networks
-**Platforms:** Azure (Kusto, SQL Server, ML Studio)    
+**Focus:** Regression / Ensemble Modeling, MLP Neural Networks  
+**Platforms:** Azure (Kusto, SQL Server, ML Studio)      
 - Analyzed **20,000+** datacenter repair tickets for **Nvidia H100** nodes based on failure fault code and repair action data  
 - Create prediction model to estimate mean time to repair and repair duration of a given node based on fault codes
 - Utilized model to prioritze datacenter technician repair tickets with greatest impact on node uptime  
