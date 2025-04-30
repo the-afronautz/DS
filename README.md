@@ -48,7 +48,7 @@ I am a multi-disciplinary engineer and data scientist with experience at the int
 **Focus:** Six Sigma, DMAIC, Data Analysis, Cycle Time Reduction  
 **Platforms:** JMP, Azure (SQL Server, Data Studio, ML Studio, DevOps)   
 - Led consolidation and analysis of rack assembly inspection cycle time data, identifying bottlenecks and redundant review processes
-- Collaborated with broader team to drive lean process improvements and streamlined stakeholder communication resulting in 25% reduction in inspection cycle time
+- Collaborated with broader team to drive lean process improvements and streamlined stakeholder communication resulting in **25% reduction** in inspection **cycle time**
 
 
 ## <ins> Personal Projects </ins>
