@@ -37,7 +37,7 @@ I am a multi-disciplinary engineer and data scientist with experience at the int
 #### **(2) Hardware Program Assignment Optimization**      
 **Focus:** Data Governance, Data Mining, Regression Modeling, Visualization    
 **Platforms:** Azure (SQL Server, Data Studio, ML Studio, DevOps), Power BI    
-- Managed end-to-end development of **Power BI(** tool to **forecast and balance workload** distribution of 400+ programs across 7 engineering teams and **save 2,400 labor hours annually**  
+- Managed end-to-end development of **Power BI** (tool to **forecast and balance workload** distribution of 400+ programs across 7 engineering teams and **save 2,400 labor hours annually**  
 - Created process standards and implementation logic to define clear requirements for data engineering collaborators to execute against   
 - Leveraged SQL and Python to extract, clean, and model program development timelines, **improving schedule forecast accuracy by 32%** and enabling further workload balancing optimization    
  
