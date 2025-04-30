@@ -37,19 +37,21 @@ I am a multi-disciplinary engineer and data scientist with experience at the int
 #### **(2) Hardware Program Assignment Optimization**    
 **Focus:** Data Governance, Data Mining, Regression Modeling, Classification    
 **Platforms:** Azure (SQL Server, Data Studio, ML Studio, DevOps), Power BI   
-- Managed end-to-end development of Power BI forecasting tool to balance workload distribution of 400+ programs across 7 engineering teams and save 2,400 labor hours annually
-- Created process standards and implementation logic to define clear requirements for data engineering collaborators to execute against 
-- Leveraged SQL and Python to extract, clean, and model program development timelines, improving schedule forecasting accuracy by **32%** and enabling further workload balancing optimization  
-
+- Managed end-to-end development of Power BI forecasting tool to balance workload distribution of 400+ programs across 7 engineering teams and save 2,400 labor hours annually  
+- Created process standards and implementation logic to define clear requirements for data engineering collaborators to execute against   
+- Leveraged SQL and Python to extract, clean, and model program development timelines, improving schedule forecasting accuracy by **32%** and enabling further workload balancing optimization    
+ 
 
 #### **(3) Rack Assembly Inspection Process Kaizen**    
 **Focus:** Six Sigma, DMAIC, Data Analysis, Cycle Time Reduction  
-**Platforms:** JMP, Azure (SQL Server, Data Studio, ML Studio, DevOps)  
+**Platforms:** JMP, Azure (SQL Server, Data Studio, ML Studio, DevOps)   
+- Led data consolidation and analysis for rack assembly inspection process improvement, identifying cycle time review bottlenecks and process optimizations to reduce cycle time by 25%
 
 #### **(4) H100 Repair Ticket Prioritization Hackathon**     
 **Focus:** Regression / Ensemble Modeling, MLP Neural Networks
 **Platforms:** Azure (Kusto, SQL Server, ML Studio)    
-- Created datacenter repair ticket prioritization model to optimize server repair operations by highlighting tickets with the shortest repair time and longest mean time to repair   
+- Created prediction model estimate mean time to repair and repair duration of a given node based on fault codes of **Nvidia H100** nodes.  
+- Utilized model to prioritze datacenter technician repair tickets with greatest impact on node uptime.     
 
 
 ## <ins> Personal Projects </ins>
