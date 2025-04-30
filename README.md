@@ -13,7 +13,7 @@
 **_Capstone Project Technical Lead (January 2025 - May 2025)_**  
 _| Git/GitHub | Python | Deep Learning | Time Series Analysis | Anomaly Detection | Server Memory Validation |_   
 - Led 4-member university team in development and execution of graduate capstone project to reduce datacenter operational costs by optimizing server hardware validation process
-- Developed temporal convolutional autoencoder model to analyze multivariate telemetry data and quantify anomalous performance relative to baseline, reducing reconstruction loss (28%   0.25%)
+- Developed temporal convolutional autoencoder model to analyze multivariate telemetry data and quantify anomalous performance relative to baseline, reducing reconstruction loss (28% --> 0.25%)
 - Developed comprehensive GitHub repository and MLflow structure to log experiments and parameters
 
 
@@ -58,11 +58,7 @@ _| Python | Statistical Analysis | Supervised Learning |_
   ![Price Density Heatmap](assets/img/broward heatmap + markers.png?raw=true)
 
   
-
-### Contract me for a _Free_ Data Science Project  
-- My team will work with you to complete a Capstone data science project on behalf of your company.
-- NDAs are supported as necessary to protect your data privacy.  
-- **[Contact Me](mailto:fjohnson199517@outlook.com)**
+- **[Email](mailto:fjohnson199517@outlook.com)**
 - **[Resume](https://github.com/the-afronautz/DS_portfolio/blob/main/[DRAFT]%20Frank%20Johnson%20Resume%20-%20Fall%2024.pdf)** 
 
 
