@@ -6,7 +6,7 @@ I am a multi-disciplinary engineer and data scientist with experience at the int
 **Platforms:** Azure Services, MLflow, Spark, Git/GitHub, PowerBI, JMP  
 **Languages:** Python, SQL, Julia, KQL, R  
 **Libraries:** Pandas, PyTorch, Scikit-Learn, NumPy, Statsmodels, SciPy, Plotly    
-**Awards:** UCF Data Science External Advisory Board  
+**Volunteerism:** UCF Data Science External Advisory Board  
 
 - **Email: [fjohnson199517@outlook.com](mailto:fjohnson199517@outlook.com)**
 - **[Resume](https://github.com/the-afronautz/DS_portfolio/blob/main/[DRAFT]%20Frank%20Johnson%20Resume%20-%20Fall%2024.pdf)** 
