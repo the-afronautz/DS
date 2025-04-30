@@ -2,12 +2,13 @@
 
 I am a multi-disciplinary engineer and data scientist with experience at the intersection of cloud hardware, software, and supply chain systems. I enjoy leveraging data and artificial intelligence systems to drive impact in technical and non-technical spaces alike. 
 
-**Analytics Skills:** Data Mining, Statistical Analysis, Machine / Deep Learning, Design of Experiments  
-**Engineering Methods:** Server / Rack Design for Manufacturability, Six Sigma, FMEA, Agile
-**Platforms:** Azure Services (AI/ML, DevOps, Fabric), MLflow, Spark, Git/GitHub, PowerBI, JMP
-**Languages:** Python, SQL, Julia, KQL, R
-**Libraries:** Pandas, PyTorch, TensorFlow, Scikit-Learn, NumPy, Statsmodels, SciPy, Plotly, Matplotlib
-**Awards:** UCF Data Science External Advisory Board 
+**Analytics Skills:** Data Mining, Statistical Analysis, Machine / Deep Learning, Design of Experiments    
+
+**Platforms:** Azure Services (AI/ML, DevOps, Fabric), MLflow, Spark, Git/GitHub, PowerBI, JMP  
+**Languages:** Python, SQL, Julia, KQL, R  
+**Libraries:** Pandas, PyTorch, TensorFlow, Scikit-Learn, NumPy, Statsmodels, SciPy, Plotly, Matplotlib  
+**Awards:** UCF Data Science External Advisory Board   
+**Engineering Methods:** Server / Rack Design for Manufacturability, Six Sigma, FMEA, Agile  
 
 - **[Email](mailto:fjohnson199517@outlook.com)**
 - **[Resume](https://github.com/the-afronautz/DS_portfolio/blob/main/[DRAFT]%20Frank%20Johnson%20Resume%20-%20Fall%2024.pdf)** 
