@@ -11,38 +11,38 @@
 ### _Gray Artificial Intelligence, Inc._ 
 #### **Statistical and Deep Learning Methods for Server Telemetry Analysis**    
 **Focus:** Deep Learning, Time Series, Anomaly Detection, Server Validation   
-**Platforms:** Git/GitHub, MLflow, Azure (SQL Server, ML Studio, VMs)
-**Libraries:** PyTorch, Scikit-Learn, Statsmodels, Pandas, NumPy, Plotly 
-- Developed master's capstone project in collaboration with [GrayAI](https://grayaiml.com/), a startup leveraging deep learning and AI technologies to optimize data center and manufacturing operations 
-- Led 4-member university team in analysis of server memory hardware data to model telemetry patterns, identify deviations from baseline operational behavior, and optimize validation testing processes 
-- Developed temporal convolutional network autoencoder model to analyze multivariate time series data and quantify anomalous server behavior in time spans as short as 100 milliseconds, reducing reconstruction loss from 28% to 0.25% to improve model accuracy
-- Developed comprehensive GitHub repository with scripts, notebooks, and reporting as well as MLflow structure to log experiments, model parameters, and artifacts for client
+**Platforms:** Git/GitHub, MLflow, Azure (SQL Server, ML Studio, VMs)  
+**Libraries:** PyTorch, Scikit-Learn, Statsmodels, Pandas, NumPy, Plotly   
+- Developed master's capstone project in collaboration with [GrayAI](https://grayaiml.com/), a startup leveraging deep learning and AI technologies to optimize data center and manufacturing operations  
+- Led 4-member university team in analysis of server memory hardware data to model telemetry patterns, identify deviations from baseline operational behavior, and optimize validation testing processes  
+- Developed temporal convolutional network autoencoder model to analyze multivariate time series data and quantify anomalous server behavior in time spans as short as 100 milliseconds, reducing reconstruction loss from 28% to 0.25% to improve model accuracy  
+- Developed comprehensive GitHub repository with scripts, notebooks, and reporting as well as MLflow structure to log experiments, model parameters, and artifacts for client  
 
     
 
-### _Microsoft Azure Hardware & Systems Infrastructure_  
+### _Microsoft Azure Hardware & Systems Infrastructure_   
 #### **Server Chassis Production Validation**   
-**Focus:** Design of Experiments, Statistical Process Control, Material Testing   
-**Tools:** Quantum XL, JMP
-- Utilized statistical process control methods to identify subpar server chassis yield in supplier production due to corrosion-prone sheet metal materials
-- Assembled team of subject matter experts across reliability engineering, quality engineering and sourcing teams to align on validation plan which balanced testing rigor with downstream customer commitments
-- Created full-factorial sheet metal DOE to determine minimum sheet metal quality based on temperature and humidity factors
-- Contracted 3rd party laboratory to conduct sheet metal testing DOE and validate results, ultimately unblocking supplier production and creating $8 million in downstream savings.
+**Focus:** Design of Experiments, Statistical Process Control, Material Testing    
+**Tools:** Quantum XL, JMP  
+- Utilized statistical process control methods to identify subpar server chassis yield in supplier production due to corrosion-prone sheet metal materials  
+- Assembled team of subject matter experts across reliability engineering, quality engineering and sourcing teams to align on validation plan which balanced testing rigor with downstream customer commitments  
+- Created full-factorial sheet metal DOE to determine minimum sheet metal quality based on temperature and humidity factors  
+- Contracted 3rd party laboratory to conduct sheet metal testing DOE and validate results, ultimately unblocking supplier production and creating $8 million in downstream savings.  
 
-#### **Program Assignment Optimization**   
-**Focus:** Design of Experiments, Statistical Process Control, Material Testing 
-**Platforms:** Azure (SQL Server, Data Studio, ML Studio, DevOps), Power BI
-- Leveraged SQL and Python to extract, clean, and model program development timelines, improving development schedule forecasting accuracy by **20%**  
+#### **Program Assignment Optimization**    
+**Focus:** Design of Experiments, Statistical Process Control, Material Testing  
+**Platforms:** Azure (SQL Server, Data Studio, ML Studio, DevOps), Power BI   
+- Leveraged SQL and Python to extract, clean, and model program development timelines, improving development schedule forecasting accuracy by **20%**   
 
 
-#### **Rack Assembly Inspection Process Kaizen**   
-**Focus:** Six Sigma, DMAIC, Lean Manufacturing, Data Analysis  
-**Platforms:** JMP, Azure (SQL Server, Data Studio, ML Studio, DevOps)
+#### **Rack Assembly Inspection Process Kaizen**    
+**Focus:** Six Sigma, DMAIC, Lean Manufacturing, Data Analysis    
+**Platforms:** JMP, Azure (SQL Server, Data Studio, ML Studio, DevOps)  
 
-#### **H100 Repair Ticket Prioritization Hackathon**   
-**Focus:** Six Sigma, DMAIC, Lean Manufacturing, Data Analysis   
-**Platforms:** Azure (Kusto, SQL Server, ML Studio)  
-- Created datacenter repair ticket prioritization model to optimize server repair operations by highlighting tickets with the shortest repair time and longest mean time to repair 
+#### **H100 Repair Ticket Prioritization Hackathon**     
+**Focus:** Six Sigma, DMAIC, Lean Manufacturing, Data Analysis     
+**Platforms:** Azure (Kusto, SQL Server, ML Studio)    
+- Created datacenter repair ticket prioritization model to optimize server repair operations by highlighting tickets with the shortest repair time and longest mean time to repair   
 
 
 ## <ins> Personal Projects </ins>
