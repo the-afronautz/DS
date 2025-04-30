@@ -1,4 +1,4 @@
-# Frank Johnson Data Science Portfolio 
+# Data Science Portfolio 
 
 - **[Email](mailto:fjohnson199517@outlook.com)**
 - **[Resume](https://github.com/the-afronautz/DS_portfolio/blob/main/[DRAFT]%20Frank%20Johnson%20Resume%20-%20Fall%2024.pdf)** 
@@ -8,7 +8,7 @@
 ## <ins> Work Experience  </ins>
 
 
-### [_Gray Artificial Intelligence, Inc._] Statistical and Deep Learning Methods for Server Telemetry Analysis    
+### _Gray Artificial Intelligence, Inc._ Statistical and Deep Learning Methods for Server Telemetry Analysis    
 _| Deep Learning | Time Series Analysis | Anomaly Detection | Server Memory Validation | Git/GitHub |_   
 - Developed master's capstone project in collaboration with [Gray Artificial Intelligence](https://grayaiml.com/), a startup leveraging artificial intelligence to optimize data center and manufacturing operations 
 - Led 4-member university team in analysis of server memory hardware data to model telemetry patterns, identify deviations from baseline operational behavior, and optimize validation testing processes 
@@ -17,7 +17,7 @@ _| Deep Learning | Time Series Analysis | Anomaly Detection | Server Memory Vali
 
     
 
-### [Microsoft]   
+### _Microsoft Azure Hardware & Systems Infrastructure_  
 _| Azure ML Studio | Azure Data Studio | SQL | Kusto | Python | Quantum XL |_  
 - Led cross-functional development of Power BI forecasting tool to optimize workload distribution of **400+** hardware SKU programs across **7** engineering teams
 - Leveraged SQL and Python to extract, clean, and model program development timelines, improving development schedule forecasting accuracy by **20%** 
