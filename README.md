@@ -22,7 +22,7 @@
 
 ### _Microsoft Azure Hardware & Systems Infrastructure_  
 #### **Server Chassis Production Validation**   
-**Focus:** Design of Experiments, Statistical Process Control, Material Testing 
+**Focus:** Design of Experiments, Statistical Process Control, Material Testing   
 **Tools:** Quantum XL, JMP
 - Utilized statistical process control methods to identify subpar server chassis yield in supplier production due to corrosion-prone sheet metal materials
 - Assembled team of subject matter experts across reliability engineering, quality engineering and sourcing teams to align on validation plan which balanced testing rigor with downstream customer commitments
