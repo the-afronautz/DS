@@ -3,10 +3,19 @@
 #### Technical Skills: Python, Julia, R, SQL, KQL 
 
 ## <ins> Education </ins>
-- M.S. Big Data Analytics | University of Central Florida (_May 2025_)
-- B.S. Industrial & Systems Engineering | Georgia Institute of Technology (_December 2018_)
+- M.S. Big Data Analytics | University of Central Florida 
+- B.S. Industrial & Systems Engineering | Georgia Institute of Technology 
 
 ## <ins> Work Experience  </ins>
+
+
+### Gray Artificial Intelligence, Inc.   
+**_Capstone Project Technical Lead (January 2025 - May 2025)_**  
+_| Git/GitHub | Python | Deep Learning | Time Series Analysis | Anomaly Detection | Server Memory Validation |_   
+- Led 4-member university team in development and execution of graduate capstone project to reduce datacenter operational costs by optimizing server hardware validation process
+- Developed temporal convolutional autoencoder model to analyze multivariate telemetry data and quantify anomalous performance relative to baseline, reducing reconstruction loss (28%   0.25%)
+- Developed comprehensive GitHub repository and MLflow structure to log experiments and parameters
+
 
 ### Microsoft Azure Hardware Systems & Infrastructure  
 **_Manufacturing Engineer II (March 2019 - Present)_**  
