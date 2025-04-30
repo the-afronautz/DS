@@ -29,7 +29,7 @@ I am a multi-disciplinary engineer and data scientist with experience at the int
 #### **(1) Server Chassis Production Validation**   
 **Focus:** Design of Experiments, Statistical Process Control, Material Testing    
 **Tools:** Quantum XL, JMP  
-- Utilized statistical process control methods to identify subpar server chassis yield in supplier production due to corrosion-prone sheet metal materials  
+- Utilized **statistical process control** methods to identify subpar server chassis yield in supplier production due to corrosion-prone sheet metal materials  
 - Assembled team of subject matter experts across reliability engineering, quality engineering and sourcing teams to align on validation plan which balanced testing rigor with downstream customer commitments  
 - Created full-factorial sheet metal **Design of Experiments** to determine minimum sheet metal quality based on temperature and humidity factors  
 - Contracted 3rd party laboratory to conduct sheet metal testing and validate results, ultimately unblocking supplier production and creating **$8 million** in downstream **savings** 
