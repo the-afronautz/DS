@@ -35,7 +35,7 @@ I am a multi-disciplinary engineer and data scientist with experience at the int
 - Contracted 3rd party laboratory to conduct sheet metal testing DOE and validate results, ultimately unblocking supplier production and creating $8 million in downstream savings 
 
 #### **(2) Hardware Program Assignment Optimization**    
-**Focus:** Data Governance, Data Mining, Regression Modeling, Classification    
+**Focus:** Data Governance, Data Mining, Regression Modeling, Visualization    
 **Platforms:** Azure (SQL Server, Data Studio, ML Studio, DevOps), Power BI   
 - Managed end-to-end development of Power BI forecasting tool to balance workload distribution of 400+ programs across 7 engineering teams and save 2,400 labor hours annually  
 - Created process standards and implementation logic to define clear requirements for data engineering collaborators to execute against   
