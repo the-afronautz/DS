@@ -6,11 +6,7 @@ I am a multi-disciplinary engineer and data scientist with experience at the int
 **Platforms:** Azure Services, MLflow, Spark, Git/GitHub, PowerBI, JMP  
 **Languages:** Python, SQL, Julia, KQL, R  
 **Libraries:** Pandas, PyTorch, Scikit-Learn, NumPy, Statsmodels, SciPy, Plotly    
-**Volunteerism:** UCF Data Science External Advisory Board   
-
-## <ins> Education </ins>
-- M.S. Big Data Analytics | University of Central Florida 
-- B.S. Industrial & Systems Engineering | Georgia Institute of Technology 
+**Volunteerism:** UCF Data Science External Advisory Board    
 
 ## <ins> Professional Projects </ins>  
 
@@ -91,8 +87,14 @@ I am a multi-disciplinary engineer and data scientist with experience at the int
   ![Price Density Heatmap](assets/img/broward heatmap + markers.png?raw=true)
 
 
+  ## <ins> Education </ins>
+- M.S. Big Data Analytics | University of Central Florida 
+- B.S. Industrial & Systems Engineering | Georgia Institute of Technology
+
+  ## <ins> Contact </ins>
 - **Email: [fjohnson199517@outlook.com](mailto:fjohnson199517@outlook.com)**  
-- **Resume: [Link](https://github.com/the-afronautz/DS/blob/4f8730edff536f0934044ffbffc20607c463d1f8/Frank%20Johnson%20Resume_may25.pdf)**  
+- **Resume: [Link](https://github.com/the-afronautz/DS/blob/4f8730edff536f0934044ffbffc20607c463d1f8/Frank%20Johnson%20Resume_may25.pdf)** 
+
 
   
 
