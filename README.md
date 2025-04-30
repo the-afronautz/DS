@@ -9,7 +9,7 @@ I am a multi-disciplinary engineer and data scientist with experience at the int
 **Volunteerism:** UCF Data Science External Advisory Board   
 
 - **Email: [fjohnson199517@outlook.com](mailto:fjohnson199517@outlook.com)**  
-- **[Resume](https://github.com/the-afronautz/DS/blob/794170dc0d639da9256af03d2d8a033dd09754f7/Frank%20Johnson%20Resume_may25.pdf)**  
+- **[Resume](https://github.com/the-afronautz/DS/blob/4f8730edff536f0934044ffbffc20607c463d1f8/Frank%20Johnson%20Resume_may25.pdf)**  
 
 ## <ins> Professional Projects </ins>  
 
