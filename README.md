@@ -36,11 +36,11 @@
 
 
 #### **Rack Assembly Inspection Process Kaizen**    
-**Focus:** Six Sigma, DMAIC, Lean Manufacturing, Data Analysis, Cycle Time Reduction  
+**Focus:** Six Sigma, DMAIC, Data Analysis, Cycle Time Reduction  
 **Platforms:** JMP, Azure (SQL Server, Data Studio, ML Studio, DevOps)  
 
 #### **H100 Repair Ticket Prioritization Hackathon**     
-**Focus:** Data Analysis, Regression / Ensemble Modeing, MLP Neural Networks, Cycle Time 
+**Focus:** Regression / Ensemble Modeling, MLP Neural Networks
 **Platforms:** Azure (Kusto, SQL Server, ML Studio)    
 - Created datacenter repair ticket prioritization model to optimize server repair operations by highlighting tickets with the shortest repair time and longest mean time to repair   
 
