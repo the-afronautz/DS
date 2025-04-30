@@ -20,7 +20,7 @@ I am a multi-disciplinary engineer and data scientist with experience at the int
 **Libraries:** PyTorch, Scikit-Learn, Statsmodels, Pandas, NumPy, Plotly   
 - Developed master's capstone project in collaboration with [GrayAI](https://grayaiml.com/), a startup leveraging deep learning and AI technologies to optimize data center and manufacturing operations  
 - Led 4-member university team in analysis of server memory hardware data to model telemetry patterns, identify deviations from baseline operational behavior, and optimize validation testing processes  
-- Developed **temporal convolutional network autoencoder** model to analyze multivariate time series data and quantify anomalous server behavior in time spans as short as 100 milliseconds, **reducing reconstruction loss from 28% to 0.25%** to improve model accuracy  
+- Developed **temporal convolutional network autoencoder** architecture to analyze multivariate time series data and quantify anomalous server behavior in time spans as short as 100 milliseconds, **reducing reconstruction loss from 28% to 0.25%** to improve model accuracy  
 - Developed comprehensive GitHub repository with scripts, notebooks, and reporting as well as MLflow structure to log experiments, model parameters, and artifacts for client  
 
     
