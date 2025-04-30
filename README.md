@@ -1,13 +1,9 @@
-# Data Science Portfolio 
-
-#### Programming Languages: Python, Julia, R, SQL, KQL 
+# Frank Johnson Data Science Portfolio 
 
 - **[Email](mailto:fjohnson199517@outlook.com)**
 - **[Resume](https://github.com/the-afronautz/DS_portfolio/blob/main/[DRAFT]%20Frank%20Johnson%20Resume%20-%20Fall%2024.pdf)** 
 
-## <ins> Education </ins>
-- M.S. Big Data Analytics | University of Central Florida 
-- B.S. Industrial & Systems Engineering | Georgia Institute of Technology 
+#### Programming Languages: Python, Julia, R, SQL, KQL 
 
 ## <ins> Work Experience  </ins>
 
@@ -62,6 +58,7 @@ _| Python | Statistical Analysis | Supervised Learning |_
 
   
 
-
-
+## <ins> Education </ins>
+- M.S. Big Data Analytics | University of Central Florida 
+- B.S. Industrial & Systems Engineering | Georgia Institute of Technology 
 
