@@ -28,7 +28,7 @@ I am a multi-disciplinary engineer and data scientist with experience at the int
     
 
 ### _Microsoft Azure Hardware & Systems Infrastructure_   
-#### **Server Chassis Production Validation**   
+#### **[1] Server Chassis Production Validation**   
 **Focus:** Design of Experiments, Statistical Process Control, Material Testing    
 **Tools:** Quantum XL, JMP  
 - Utilized statistical process control methods to identify subpar server chassis yield in supplier production due to corrosion-prone sheet metal materials  
@@ -36,13 +36,13 @@ I am a multi-disciplinary engineer and data scientist with experience at the int
 - Created full-factorial sheet metal DOE to determine minimum sheet metal quality based on temperature and humidity factors  
 - Contracted 3rd party laboratory to conduct sheet metal testing DOE and validate results, ultimately unblocking supplier production and creating $8 million in downstream savings.  
 
-#### **Hardware Program Assignment Optimization**    
+#### **(2) Hardware Program Assignment Optimization**    
 **Focus:** Data Governance, Data Mining, Regression Modeling,    
 **Platforms:** Azure (SQL Server, Data Studio, ML Studio, DevOps), Power BI   
 - Leveraged SQL and Python to extract, clean, and model program development timelines, improving development schedule forecasting accuracy by **20%**   
 
 
-#### **Rack Assembly Inspection Process Kaizen**    
+#### **3) Rack Assembly Inspection Process Kaizen**    
 **Focus:** Six Sigma, DMAIC, Data Analysis, Cycle Time Reduction  
 **Platforms:** JMP, Azure (SQL Server, Data Studio, ML Studio, DevOps)  
 
