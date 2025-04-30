@@ -6,12 +6,10 @@ I am a multi-disciplinary engineer and data scientist with experience at the int
 **Platforms:** Azure Services, MLflow, Spark, Git/GitHub, PowerBI, JMP  
 **Languages:** Python, SQL, Julia, KQL, R  
 **Libraries:** Pandas, PyTorch, Scikit-Learn, NumPy, Statsmodels, SciPy, Plotly    
-**Volunteerism:** UCF Data Science External Advisory Board  
+**Volunteerism:** UCF Data Science External Advisory Board   
 
-- **Email: [fjohnson199517@outlook.com](mailto:fjohnson199517@outlook.com)**
-- **[Resume](https://github.com/the-afronautz/DS_portfolio/blob/main/[DRAFT]%20Frank%20Johnson%20Resume%20-%20Fall%2024.pdf)** 
-
-  
+- **Email: [fjohnson199517@outlook.com](mailto:fjohnson199517@outlook.com)**  
+- **[Resume](https://github.com/the-afronautz/DS_portfolio/blob/main/[DRAFT]%20Frank%20Johnson%20Resume%20-%20Fall%2024.pdf)**  
 
 ## <ins> Professional Projects </ins>  
 
@@ -41,7 +39,7 @@ I am a multi-disciplinary engineer and data scientist with experience at the int
 **Platforms:** Azure (SQL Server, Data Studio, ML Studio, DevOps), Power BI   
 - Managed end-to-end development of Power BI forecasting tool to balance workload distribution of 400+ programs across 7 engineering teams and save 2,400 labor hours annually
 - Created process standards and implementation logic to define clear requirements for data engineering collaborators to execute against 
-- Leveraged SQL and Python to extract, clean, and model program development timelines and improve schedule forecasting accuracy by **32%**   
+- Leveraged SQL and Python to extract, clean, and model program development timelines, improving schedule forecasting accuracy by **32%** and enabling further workload balancing optimization  
 
 
 #### **(3) Rack Assembly Inspection Process Kaizen**    
