@@ -20,7 +20,7 @@ I am a multi-disciplinary engineer and data scientist with experience at the int
 **Libraries:** PyTorch, Scikit-Learn, Statsmodels, Pandas, NumPy, Plotly   
 - Developed master's capstone project in collaboration with [GrayAI](https://grayaiml.com/), a startup leveraging deep learning and AI technologies to optimize data center and manufacturing operations  
 - Led 4-member university team in analysis of server memory hardware data to model telemetry patterns, identify deviations from baseline operational behavior, and optimize validation testing processes  
-- Developed temporal convolutional network autoencoder model to analyze multivariate time series data and quantify anomalous server behavior in time spans as short as 100 milliseconds, reducing reconstruction loss from 28% to 0.25% to improve model accuracy  
+- Developed **temporal convolutional network autoencoder** model to analyze multivariate time series data and quantify anomalous server behavior in time spans as short as 100 milliseconds, **reducing reconstruction loss from 28% to 0.25%** to improve model accuracy  
 - Developed comprehensive GitHub repository with scripts, notebooks, and reporting as well as MLflow structure to log experiments, model parameters, and artifacts for client  
 
     
@@ -31,15 +31,15 @@ I am a multi-disciplinary engineer and data scientist with experience at the int
 **Tools:** Quantum XL, JMP  
 - Utilized statistical process control methods to identify subpar server chassis yield in supplier production due to corrosion-prone sheet metal materials  
 - Assembled team of subject matter experts across reliability engineering, quality engineering and sourcing teams to align on validation plan which balanced testing rigor with downstream customer commitments  
-- Created full-factorial sheet metal DOE to determine minimum sheet metal quality based on temperature and humidity factors  
-- Contracted 3rd party laboratory to conduct sheet metal testing DOE and validate results, ultimately unblocking supplier production and creating $8 million in downstream savings 
+- Created full-factorial sheet metal **Design of Experiments** to determine minimum sheet metal quality based on temperature and humidity factors  
+- Contracted 3rd party laboratory to conduct sheet metal testing and validate results, ultimately unblocking supplier production and creating **$8 million** in downstream **savings** 
 
 #### **(2) Hardware Program Assignment Optimization**      
 **Focus:** Data Governance, Data Mining, Regression Modeling, Visualization    
 **Platforms:** Azure (SQL Server, Data Studio, ML Studio, DevOps), Power BI    
-- Managed end-to-end development of Power BI forecasting tool to balance workload distribution of 400+ programs across 7 engineering teams and save 2,400 labor hours annually  
+- Managed end-to-end development of **Power BI(** tool to **forecast and balance workload** distribution of 400+ programs across 7 engineering teams and **save 2,400 labor hours annually**  
 - Created process standards and implementation logic to define clear requirements for data engineering collaborators to execute against   
-- Leveraged SQL and Python to extract, clean, and model program development timelines, improving schedule forecasting accuracy by **32%** and enabling further workload balancing optimization    
+- Leveraged SQL and Python to extract, clean, and model program development timelines, **improving schedule forecast accuracy by 32%** and enabling further workload balancing optimization    
  
 
 #### **(3) Rack Assembly Inspection Process Kaizen**    
