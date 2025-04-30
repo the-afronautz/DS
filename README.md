@@ -18,42 +18,41 @@ I am a multi-disciplinary engineer and data scientist with experience at the int
 **Focus:** Deep Learning, Time Series, Anomaly Detection, Server Validation   
 **Platforms:** Git/GitHub, MLflow, Azure (SQL Server, ML Studio, VMs)  
 **Libraries:** PyTorch, Scikit-Learn, Statsmodels, Pandas, NumPy, Plotly   
-- Developed master's capstone project in collaboration with [GrayAI](https://grayaiml.com/), a startup leveraging deep learning and AI technologies to optimize data center and manufacturing operations  
-- Led 4-member university team in analysis of server memory hardware data to model telemetry patterns, identify deviations from baseline operational behavior, and optimize validation testing processes  
-- Developed **temporal convolutional network autoencoder** architecture to analyze multivariate time series data and quantify anomalous server behavior in time spans as short as 100 milliseconds, **reducing reconstruction loss from 28% to 0.25%** to improve model accuracy  
-- Developed comprehensive GitHub repository with scripts, notebooks, and reporting as well as MLflow structure to log experiments, model parameters, and artifacts for client  
+- Developed master's capstone project in collaboration with [GrayAI](https://grayaiml.com/), a startup leveraging deep learning and AI technologies to optimize data center and manufacturing operations   
+- Led 4-member university team in analysis of server memory hardware to model telemetry patterns, identify deviations from baseline operational behavior, and optimize validation testing   
+- Developed **temporal convolutional network autoencoder** architecture to analyze multivariate time series data and quantify anomalous server behavior in time spans as short as 100 milliseconds, improving model accuracy by **reducing reconstruction loss from 28% to 0.25%**  
+- Developed comprehensive GitHub repository with scripts, notebooks, and reporting as well as MLflow structure to log experiments, model parameters, and artifacts for client   
 
     
 
 ### _Microsoft Azure Hardware & Systems Infrastructure_   
-#### **(1) Server Chassis Production Validation**   
+#### **(1) Server Chassis Production Qualification**   
 **Focus:** Design of Experiments, Statistical Process Control, Material Testing    
 **Tools:** Quantum XL, JMP  
-- Utilized **statistical process control** methods to identify subpar server chassis yield in supplier production due to corrosion-prone sheet metal materials  
+- Utilized **statistical process control** methods to identify subpar server chassis yield in supplier production due to use of corrosion-prone sheet metals     
 - Assembled team of subject matter experts across reliability engineering, quality engineering and sourcing teams to align on validation plan which balanced testing rigor with downstream customer commitments  
-- Created full-factorial sheet metal **Design of Experiments** to determine minimum sheet metal quality based on temperature and humidity factors  
+- Created full-factorial sheet metal **Design of Experiments** to determine minimum material quality requirements based on temperature and humidity factors  
 - Contracted 3rd party laboratory to conduct sheet metal testing and validate results, ultimately unblocking supplier production and creating **$8 million** in downstream **savings** 
 
 #### **(2) Hardware Program Assignment Optimization**      
 **Focus:** Data Governance, Data Mining, Regression Modeling, Visualization    
 **Platforms:** Azure (SQL Server, Data Studio, ML Studio, DevOps), Power BI    
-- Managed end-to-end development of **Power BI** (tool to **forecast and balance workload** distribution of 400+ programs across 7 engineering teams and **save 2,400 labor hours annually**  
+- Managed end-to-end development of **Power BI** tool to **forecast and balance workload** distribution of 400+ programs across 7 engineering teams and **save 2,400 labor hours annually**  
 - Created process standards and implementation logic to define clear requirements for data engineering collaborators to execute against   
 - Leveraged SQL and Python to extract, clean, and model program development timelines, **improving schedule forecast accuracy by 32%** and enabling further workload balancing optimization    
- 
 
-#### **(3) Rack Assembly Inspection Process Kaizen**    
-**Focus:** Six Sigma, DMAIC, Data Analysis, Cycle Time Reduction  
-**Platforms:** JMP, Azure (SQL Server, Data Studio, ML Studio, DevOps)   
-- Led consolidation and analysis of rack assembly inspection cycle time data, identifying bottlenecks in review lifecycle and redundant workstreams
-- Collaborated with broader team to drive lean process improvements and streamlined stakeholder communication resulting in 25% reduction in inspection cycle time
-
-#### **(4) Nvidia H100 Repair Ticket Prioritization Hackathon**     
+ #### **(3) Nvidia H100 Repair Ticket Prioritization Hackathon**     
 **Focus:** Regression / Ensemble Modeling, MLP Neural Networks  
 **Platforms:** Azure (Kusto, SQL Server, ML Studio)      
-- Analyzed **20,000+** datacenter repair tickets for **Nvidia H100** nodes based on failure fault code and repair action data  
-- Create prediction model to estimate mean time to repair and repair duration of a given node based on fault codes
+- Analyzed **20,000+** datacenter repair tickets for **Nvidia H100** nodes based on failure fault code and repair action data   
+- Create prediction model to estimate mean time to repair and repair duration of a given node based on fault codes  
 - Utilized model to prioritze datacenter technician repair tickets with greatest impact on node uptime  
+
+#### **(4) Rack Assembly Inspection Process Kaizen**    
+**Focus:** Six Sigma, DMAIC, Data Analysis, Cycle Time Reduction  
+**Platforms:** JMP, Azure (SQL Server, Data Studio, ML Studio, DevOps)   
+- Led consolidation and analysis of rack assembly inspection cycle time data, identifying bottlenecks and redundant review processes
+- Collaborated with broader team to drive lean process improvements and streamlined stakeholder communication resulting in 25% reduction in inspection cycle time
 
 
 ## <ins> Personal Projects </ins>
