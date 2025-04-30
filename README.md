@@ -9,8 +9,8 @@
 
 
 ### _Gray Artificial Intelligence, Inc._ 
-#### Statistical and Deep Learning Methods for Server Telemetry Analysis    
-**Focus:** Deep Learning, Time Series Analysis, Anomaly Detection, Server Validation   
+#### **Statistical and Deep Learning Methods for Server Telemetry Analysis**    
+**Focus:** Deep Learning, Time Series, Anomaly Detection, Server Validation   
 **Platforms:** Git/GitHub, MLflow, Azure Virtual Machines  
 **Libraries:** PyTorch, Scikit-Learn, Statsmodels, Pandas, NumPy, Plotly 
 - Developed master's capstone project in collaboration with [Gray Artificial Intelligence](https://grayaiml.com/), a startup leveraging artificial intelligence to optimize data center and manufacturing operations 
