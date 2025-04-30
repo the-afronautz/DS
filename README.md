@@ -8,22 +8,21 @@
 ## <ins> Work Experience  </ins>
 
 
-### Gray Artificial Intelligence, Inc.   
-**_Capstone Project Technical Lead (January 2025 - May 2025)_**  
-_| Git/GitHub | Python | Deep Learning | Time Series Analysis | Anomaly Detection | Server Memory Validation |_   
-- Led 4-member university team in development and execution of graduate capstone project to reduce datacenter operational costs by optimizing server hardware validation process
-- Developed temporal convolutional autoencoder model to analyze multivariate telemetry data and quantify anomalous performance relative to baseline, reducing reconstruction loss (28% --> 0.25%)
-- Developed comprehensive GitHub repository and MLflow structure to log experiments and parameters
+### [Gray Artificial Intelligence, Inc.] Statistical and Deep Learning Methods for Server Telemetry Analysis    
+_| Deep Learning | Time Series Analysis | Anomaly Detection | Server Memory Validation | Git/GitHub |_   
+- Developed master's capstone project in collaboration with [Gray Artificial Intelligence](https://grayaiml.com/), a startup leveraging artificial intelligence to optimize data center and manufacturing operations 
+- Led 4-member university team in analysis of server memory hardware data to model telemetry patterns, identify deviations from baseline operational behavior, and optimize validation testing processes 
+- Developed PyTorch-based temporal convolutional network autoencoder model to analyze multivariate time series data and quantify anomalous server behavior, reducing reconstruction loss from 28% to 0.25% to improve model accuracy
+- Developed comprehensive GitHub repository and MLflow structure to log experiments, model parameters, and artifacts for client
 
     
 
-### Microsoft Azure Hardware Systems & Infrastructure  
-**_Manufacturing Engineer II (March 2019 - Present)_**  
+### [Microsoft]   
 _| Azure ML Studio | Azure Data Studio | SQL | Kusto | Python | Quantum XL |_  
-- Led cross-functional development of Power BI forecasting tool to optimize workload distribution of **400+** hardware SKU programs across **7** engineering teams.
+- Led cross-functional development of Power BI forecasting tool to optimize workload distribution of **400+** hardware SKU programs across **7** engineering teams
 - Leveraged SQL and Python to extract, clean, and model program development timelines, improving development schedule forecasting accuracy by **20%** 
-- Led design and implementation of chassis sheet metal DOE and factory process control reviews which unblocked supplier server production and saved **$8 million** in deployment delay costs.
-- Created datacenter repair ticket prioritization model to optimize server repair operations by highlighting tickets with the shortest repair time and longest mean time to repair [Hackathon].
+- Led design and implementation of chassis sheet metal DOE and factory process control reviews which unblocked supplier server production and saved **$8 million** in deployment delay costs
+- Created datacenter repair ticket prioritization model to optimize server repair operations by highlighting tickets with the shortest repair time and longest mean time to repair [Hackathon]
 
 
 ## <ins> Projects </ins>
