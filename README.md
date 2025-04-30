@@ -1,4 +1,6 @@
-# Data Science Portfolio 
+# Data Science Portfolio   
+
+I am a multi-disciplinary engineer and data scientist with experience at the intersection of hardware, software, and supply chain systems. I enjoy leveraging data and artificial intelligence systems to drive impact in technical and non-technical spaces.
 
 - **[Email](mailto:fjohnson199517@outlook.com)**
 - **[Resume](https://github.com/the-afronautz/DS_portfolio/blob/main/[DRAFT]%20Frank%20Johnson%20Resume%20-%20Fall%2024.pdf)** 
