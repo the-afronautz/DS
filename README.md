@@ -10,7 +10,7 @@
 
 ### _Gray Artificial Intelligence, Inc._ 
 #### Statistical and Deep Learning Methods for Server Telemetry Analysis    
-_| Deep Learning | Time Series Analysis | Anomaly Detection | Server Memory Validation | Git/GitHub |_   
+**Focus:** Deep Learning, Statistical Analysis, Time Series Analysis, Anomaly Detection, Server Validation   
 - Developed master's capstone project in collaboration with [Gray Artificial Intelligence](https://grayaiml.com/), a startup leveraging artificial intelligence to optimize data center and manufacturing operations 
 - Led 4-member university team in analysis of server memory hardware data to model telemetry patterns, identify deviations from baseline operational behavior, and optimize validation testing processes 
 - Developed PyTorch-based temporal convolutional network autoencoder model to analyze multivariate time series data and quantify anomalous server behavior, reducing reconstruction loss from 28% to 0.25% to improve model accuracy
