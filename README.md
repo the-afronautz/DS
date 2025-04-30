@@ -57,7 +57,7 @@ I am a multi-disciplinary engineer and data scientist with experience at the int
 **Focus:** Dimensionality Reduction, Clustering, Classification, Metadata      
 **Platforms:** Spotify API, Jupyter Notebooks   
 - Consolidated metadata for personal music collection of **3,000** tracks using existing features (e.g. tempo, key, runtime) as well as queried attributes from Spotify's API  (e.g. instrumentalness, danceability, energy).
-- Implemented non-linear classification models **(KNN, Ensemble, Multilayer Perceptron)** to determine genre of tracks missing this designation, **improving accuracy by 30% and recall by 40%** relative to linear methods.
+- Implemented non-linear classification models **(KNN, Ensemble, Multilayer Perceptron)** to determine genre of tracks missing this designation, **improving accuracy by 31% and recall by 48%** relative to linear methods.
 - Clustered tracks via **K-Means and K-Medoids** algorithms combined with Principal Component Analysis (PCA) of existing attributes.
 - Utilized novel track groupings to create new setlists and mixes for DJ performances. 
 - **[Project Repository](https://github.com/theafronautz/Music_Library_Clustering/tree/main)**
@@ -71,7 +71,9 @@ I am a multi-disciplinary engineer and data scientist with experience at the int
 	
 
 #### (2) Airbnb Market Analysis 
-_| Python | Statistical Analysis | Supervised Learning |_  
+**Focus:** Data Mining, Statistical Analysis, Linear Regression     
+**Platforms:** insideairbnb.com, Jupyter Notebooks   
+
 - Analyzed Broward County, FL housing market to determine optimal Airbnb pricing structure, location, and property attributes to maximize yearly revenue.
 - **[Project Repository](https://github.com/the-afronautz/airbnb-market_analysis)**
 
