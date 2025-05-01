@@ -1,12 +1,12 @@
 # Data Science Portfolio   
 
-I am a multi-disciplinary engineer and data scientist with experience at the intersection of cloud hardware, software, and supply chain systems. I enjoy leveraging data and artificial intelligence systems to drive tangible impact in technical and non-technical spaces alike. 
+I am a multi-disciplinary engineer and data scientist working at the intersection of cloud hardware, software, and supply chain systems. I have hands-on experience  spanning from design conceptualization to datacenter delivery and management. I enjoy leveraging data and artificial intelligence systems to drive tangible impact in technical and non-technical spaces alike. 
 
 **Analytics Skills:** Data Mining, Statistical Analysis, ML/DL, DOE    
 **Platforms:** Azure Services, MLflow, Spark, Git/GitHub, PowerBI, JMP  
 **Languages:** Python, SQL, Julia, KQL, R  
 **Libraries:** Pandas, PyTorch, Scikit-Learn, NumPy, Statsmodels, SciPy, Plotly    
-**Extracirricular Roles:** UCF Data Science External Advisory Board    
+**Extracurricular Roles:** UCF Data Science External Advisory Board    
 
 ## <ins> Professional Projects </ins>  
 
