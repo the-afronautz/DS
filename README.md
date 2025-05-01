@@ -1,6 +1,9 @@
 # Data Science Portfolio   
 
-I am a multi-disciplinary engineer and data scientist working at the intersection of cloud hardware, software, and supply chain systems. I have hands-on experience  spanning from design conceptualization to datacenter delivery and management. I enjoy building data and artificial intelligence systems to drive tangible impact in technical and non-technical spaces alike. 
+I am a multi-disciplinary engineer and data scientist working at the intersection of cloud hardware, software, and supply chain systems.   
+
+I have hands-on experience spanning from design conceptualization to datacenter operations. I especially enjoy building data and artificial intelligence systems to create tangible solutions to engineering and business challenges alike. 
+
 
 **Analytics Skills:** Data Mining, Statistical Analysis, ML/DL, DOE    
 **Platforms:** Azure Services, MLflow, Spark, Git/GitHub, PowerBI, JMP  
