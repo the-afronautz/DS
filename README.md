@@ -1,6 +1,6 @@
 # Data Science Portfolio   
 
-I am a multi-disciplinary engineer and data scientist working at the intersection of cloud hardware, software, and supply chain systems. I have hands-on experience  spanning from design conceptualization to datacenter delivery and management. I enjoy leveraging data and artificial intelligence systems to drive tangible impact in technical and non-technical spaces alike. 
+I am a multi-disciplinary engineer and data scientist working at the intersection of cloud hardware, software, and supply chain systems. I have hands-on experience  spanning from design conceptualization to datacenter delivery and management. I enjoy building data and artificial intelligence systems to drive tangible impact in technical and non-technical spaces alike. 
 
 **Analytics Skills:** Data Mining, Statistical Analysis, ML/DL, DOE    
 **Platforms:** Azure Services, MLflow, Spark, Git/GitHub, PowerBI, JMP  
@@ -14,8 +14,8 @@ I am a multi-disciplinary engineer and data scientist working at the intersectio
 #### **Statistical and Deep Learning Methods for Server Telemetry Analysis**    
 **Focus:** Deep Learning, Time Series, Anomaly Detection, Server Validation   
 **Platforms:** Git/GitHub, MLflow, Azure (SQL Server, ML Studio, VMs)     
-- Developed master's capstone project in collaboration with [GrayAI](https://grayaiml.com/), a startup leveraging deep learning and AI technologies to optimize data center and manufacturing operations   
-- Led 4-member university team in analysis of server memory hardware to model telemetry patterns, identify deviations from baseline operational behavior, and optimize validation testing   
+- Developed master's capstone project in collaboration with [GrayAI](https://grayaiml.com/), a startup leveraging deep learning and AI technologies to optimize data center and manufacturing operations through server validation, power distribution, and preventative maintenance optimization.  
+- Led 4-member university team in analysis of server memory hardware to model telemetry patterns, identify deviations from baseline operational behavior, and optimize validation testing
 - Developed **PyTorch-based temporal convolutional network autoencoder** architecture to analyze multivariate time series data and quantify anomalous server behavior in time spans as short as 100 milliseconds, improving model accuracy by **reducing reconstruction loss from 28% to 0.25%**  
 - Developed comprehensive GitHub repository with scripts, notebooks, and reporting as well as MLflow structure to log experiments, model parameters, and artifacts for client   
 
