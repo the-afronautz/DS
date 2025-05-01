@@ -27,7 +27,7 @@ I have hands-on experience spanning from design conceptualization to datacenter 
 ### _Microsoft Azure Hardware & Systems Infrastructure_   
 #### **(1) Server Chassis Production Qualification**   
 **Focus:** Design of Experiments, Statistical Process Control, Material Testing    
-**Tools:** Quantum XL, JMP  
+**Tools:** JMP, Quantum XL
 - Utilized **statistical process control** methods to identify subpar server chassis yield in supplier production due to use of corrosion-prone sheet metals     
 - Assembled team of subject matter experts across reliability engineering, quality engineering and sourcing teams to align on validation plan which balanced testing rigor with downstream customer commitments  
 - Created full-factorial sheet metal **Design of Experiments** to determine minimum material quality requirements based on temperature and humidity factors  
