@@ -6,7 +6,7 @@ I am a multi-disciplinary engineer and data scientist with experience at the int
 **Platforms:** Azure Services, MLflow, Spark, Git/GitHub, PowerBI, JMP  
 **Languages:** Python, SQL, Julia, KQL, R  
 **Libraries:** Pandas, PyTorch, Scikit-Learn, NumPy, Statsmodels, SciPy, Plotly    
-**Volunteerism:** UCF Data Science External Advisory Board    
+**Extracirricular Roles:** UCF Data Science External Advisory Board    
 
 ## <ins> Professional Projects </ins>  
 
