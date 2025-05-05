@@ -71,33 +71,3 @@ I have hands-on experience spanning from design conceptualization to datacenter 
 
 ![Track Clustering Visualization](https://github.com/the-afronautz/DS_portfolio/blob/main/assets/img/kmedoids%20clusters.png?raw=true)
 	
-
-#### (2) Airbnb Market Analysis 
-**Focus:** Data Mining, Statistical Analysis, Linear Regression     
-**Platforms:** insideairbnb.com, Jupyter Notebooks   
-
-- Analyzed Broward County, FL housing market to determine optimal Airbnb pricing structure, location, and property attributes to maximize yearly revenue.
-- **[Project Repository](https://github.com/the-afronautz/airbnb-market_analysis)**
-
-<p align="center">
-    <strong>Highest Revenue Neighborhoods in Broward County</strong>
-</p>  
-  ![Highest Revenue Neighborhoods](https://github.com/the-afronautz/DS_portfolio/blob/main/assets/img/broward investments.png?raw=true)   
-
-<p align="center">
-    <strong>Lighthouse Point Price Density Heatmap</strong>
-</p>  
-  ![Price Density Heatmap](assets/img/broward heatmap + markers.png?raw=true)
-
-
-## <ins> Education </ins>
-- M.S. Big Data Analytics | University of Central Florida 
-- B.S. Industrial & Systems Engineering | Georgia Institute of Technology
-
-## <ins> Contact </ins>
-- **Email: [fjohnson199517@outlook.com](mailto:fjohnson199517@outlook.com)**  
-- **Resume: [Link](https://github.com/the-afronautz/DS/blob/4f8730edff536f0934044ffbffc20607c463d1f8/Frank%20Johnson%20Resume_may25.pdf)** 
-
-
-  
-
