@@ -23,7 +23,7 @@ I have hands-on experience spanning from design conceptualization to datacenter 
 - Developed comprehensive GitHub repository with scripts, notebooks, and reporting as well as MLflow structure to log experiments, model parameters, and artifacts for client   
 
 **Project Video Summary**   
-[![Project Video Summary](https://github.com/the-afronautz/DS/blob/a8e82c42b9d45e1835a6c07f171338c90aeef9db/assets/img/tcn-ae-vid-thumbnail.png)](https://www.youtube.com/watch?v=GCv4LAZilRU&ab_channel=Franko)
+[![Project Video Summary](https://the-afronautz.github.io/DS/assets/img/tcn-ae-vid-thumbnail.png)](https://www.youtube.com/watch?v=GCv4LAZilRU&ab_channel=Franko)
 
 ### _Microsoft Azure Hardware & Systems Infrastructure_   
 #### **(1) Server Chassis Production Qualification**   
