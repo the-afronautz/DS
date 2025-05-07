@@ -22,6 +22,7 @@ I have hands-on experience spanning from design conceptualization to datacenter 
 - Developed **PyTorch-based temporal convolutional network autoencoder** architecture to analyze multivariate time series data and quantify anomalous server behavior in time spans as short as 100 milliseconds, improving model accuracy by **reducing reconstruction loss from 28% to 0.25%**  
 - Developed comprehensive GitHub repository with scripts, notebooks, and reporting as well as MLflow structure to log experiments, model parameters, and artifacts for client   
 
+**[Project Overview Video](https://www.youtube.com/watch?v=GCv4LAZilRU&ab_channel=Franko)**   
     
 
 ### _Microsoft Azure Hardware & Systems Infrastructure_   
